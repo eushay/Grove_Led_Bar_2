@@ -29,7 +29,8 @@
 #ifndef Grove_LED_Bar_H
 #define Grove_LED_Bar_H
 
-#include <Arduino.h>
+//#include <Arduino.h>
+#include "application.h"
 
 // Avoid name conflict
 #define GLB_CMDMODE 0x00  // Work on 8-bit mode
