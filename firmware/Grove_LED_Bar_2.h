@@ -26,8 +26,8 @@
   User can change the brightness level for each LED segment
   Rename constant to avoid name conflict
 */
-#ifndef Grove_LED_Bar_H
-#define Grove_LED_Bar_H
+#ifndef Grove_LED_Bar_2_H
+#define Grove_LED_Bar_2_H
 
 //#include <Arduino.h>
 #include "application.h"
