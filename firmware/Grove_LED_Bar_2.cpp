@@ -23,6 +23,7 @@
 */
 
 #include "Grove_LED_Bar_2.h"
+#include "application.h"
 
 Grove_LED_Bar::Grove_LED_Bar(unsigned char pinClock, unsigned char pinData, bool greenToRed)
 {
